@@ -1,12 +1,13 @@
-# __Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm Olga & I ❤️ code</h1>__
+# __Hi there ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm Olga & I ❤️ code</h1>__
 ### Welcome to my page!)
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-- 💻 I'm a beginner Android Developer currently living in Moscow
-- 🌱 I’m currently learning everything 
-- 📚 I’m currently learning English
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+- 💻 I'm a beginner __Android Developer__
+- 🛠  I’m currently learning Kotlin/Java 
+- 🌱 I love exploring new tech stack and building cool stuffs
 - 💬 Ask me anything about from <a href="https://github.com/OlgaSnadina222/OlgaSnadina222/issues" title="Issues">here</a>
-- ⚡ Fun fact: I love to draw 
+- 📚 I'm fond of drawing and learning English
+- 📌 Living in Moscow, Russia
 
 ### Languages and Tools:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -15,6 +16,32 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-406eb7?style=for-the-badge&logo=photoshop&logoColor=white)
+
+### Who am I?
+ ```kotlin
+ class WhoAmI(): AppCompatActivity() {
+ 
+    private val user: String = "Snadina Olga"
+	private val currentStatus: String = "Beginner Android Developer"
+	private var hobbies = listOf<String>(
+				"Drawing",
+				"Watching movies",
+				"Learning English"
+				"Being up all night chasing that ONE BUG...")
+	
+	 private fun getLivingCity(): String {
+		 return "Moscow"
+     }
+	
+	 private fun someAmbitions(){
+		 learnEnglish()
+		 createCoolApplication()
+		 visitMoon()
+		 //Assume 10 more awesome ambitions here  ;)
+     }
+ }
+	
+ ```
  
 ### Connect with me
 - snadinao@gmail.com
