@@ -5,6 +5,7 @@
 - 💻 I'm a beginner Android Developer currently living in Moscow
 - 🌱 I’m currently learning everything 
 - 📚 I’m currently learning English
+- 💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">here</a>
 - ⚡ Fun fact: I love to draw 
 
 ### Languages and Tools:
