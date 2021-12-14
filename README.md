@@ -19,7 +19,7 @@
 
 ### Who am I?
  ```kotlin
- class WhoAmI(): AppCompatActivity() {
+ class WhoAmI(): AppCompatActivity(){
  
     private val user: String = "Snadina Olga"
 	private val currentStatus: String = "Beginner Android Developer"
@@ -29,7 +29,7 @@
 				"Learning English"
 				"Being up all night chasing that ONE BUG...")
 	
-	 private fun getLivingCity(): String {
+	 private fun getLivingCity(): String{
 		 return "Moscow"
      }
 	
