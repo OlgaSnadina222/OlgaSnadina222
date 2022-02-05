@@ -1,5 +1,5 @@
 # __Hi there ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> My name's Olga & I ❤️ code</h1>__
-### Welcome to my page!)
+### Welcome to my page!
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 - 💻 I'm a beginner __Android Developer__
