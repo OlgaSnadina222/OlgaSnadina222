@@ -23,7 +23,7 @@
  
     private val user: String = "Snadina Olga"
 	private val currentStatus: String = "Beginner Android Developer"
-	private var hobbies = listOf<String>(
+	private val hobbies = listOf<String>(
 				"Drawing",
 				"Watching movies",
 				"Learning English"
