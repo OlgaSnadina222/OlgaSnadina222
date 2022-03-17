@@ -16,33 +16,8 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-406eb7?style=for-the-badge&logo=photoshop&logoColor=white)
-
-### Who am I?
- ```kotlin
- class WhoAmI(): AppCompatActivity(){
- 
-    private val user: String = "Snadina Olga"
-	private val currentStatus: String = "Beginner Android Developer"
-	private val hobbies = listOf<String>(
-				"Drawing",
-				"Watching movies",
-				"Learning English"
-				"Being up all night chasing that ONE BUG...")
-	
-	 private fun getLivingCity(): String{
-		 return "Moscow"
-     }
-	
-	 private fun someAmbitions(){
-		 learnEnglish()
-		 createCoolApplication()
-		 visitMoon()
-		 //Assume 10 more awesome ambitions here  ;)
-     }
- }
-	
- ```
  
 ### Connect with me
 - snadinao@gmail.com
-- @flumines on Telegram
+- @mrs_android_developer on Telegram
+- skype: OlgaSSS795
