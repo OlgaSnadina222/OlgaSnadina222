@@ -18,6 +18,6 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-406eb7?style=for-the-badge&logo=photoshop&logoColor=white)
  
 ### Connect with me
-- snadinao@gmail.com
-- @mrs_android_developer on Telegram
-- skype: OlgaSSS795
+snadinao@gmail.com
+@mrs_android_developer on Telegram
+Skype: OlgaSSS795
