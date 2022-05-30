@@ -7,7 +7,7 @@
 - 🌱 I love exploring new tech stack and building cool stuffs
 - 💬 Ask me anything about from <a href="https://github.com/OlgaSnadina222/OlgaSnadina222/issues" title="Issues">here</a>
 - 📚 I'm fond of drawing and learning English
-- 📌 Living in Moscow, Russia
+- 📌 Living in San Jose, California, USA
 
 ### Languages and Tools:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
