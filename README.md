@@ -2,8 +2,8 @@
 ### Welcome to my page!
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-- 💻 I'm a beginner __Android Developer__
-- 🛠  I’m currently learning Android (Kotlin/Java) 
+- 💻 I'm a__Android Developer__
+- 🛠  I’m currently improving my skills in Android Development
 - 🌱 I love exploring new tech stack and building cool stuffs
 - 💬 Ask me anything about from <a href="https://github.com/OlgaSnadina222/OlgaSnadina222/issues" title="Issues">here</a>
 - 📚 I'm fond of drawing and UI
@@ -19,5 +19,5 @@
  
 ### Connect with me
 - snadinao@gmail.com
-- @mrs_android_developer on Telegram
+
 
